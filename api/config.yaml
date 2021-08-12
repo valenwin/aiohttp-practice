@@ -1,0 +1,6 @@
+redis_uri: "redis://localhost:6379"
+uploads_max_size: 512
+#host: 127.0.0.1
+#port: 7000
+#database_uri: "postgresql+asyncpg://<db_user>:<db_password>@localhost:5432/<db_name>"
+database_uri: "postgres+asyncpg://localhost:5432"
